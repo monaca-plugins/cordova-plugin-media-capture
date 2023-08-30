@@ -18,6 +18,10 @@
   under the License.
 -->
 
+<!--
+  Modifications copyright (C) 2023 Asial Corporation.
+-->
+
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="cordova-plugin-media-capture"
